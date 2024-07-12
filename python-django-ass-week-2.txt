@@ -1,0 +1,3 @@
+Create a simple library management system to understand and demonstrate the 
+fundamental concepts of Django, including the admin interface, MVT (Model View Templates) architecture, 
+models, views, templates, and URL mapping.
